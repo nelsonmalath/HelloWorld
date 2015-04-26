@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+void main()
+{
+	printf("Enter two numbers that you want to 
+}
